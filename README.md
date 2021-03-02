@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+My name is Ildar Karymov (tomakado).
 
 I speak Russian, English, Python, Golang and JavaScript.
 
@@ -15,3 +17,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+More info about my experience 👉 https://tomakado.xyz
+
+📮 Feel free to get in touch with me via hi@ildarkarymov.ru
+
+### Links
+
+* Twitter: [@tomakado](https://twitter.com/tomakado)
+
+* Telegram: [@tomakado](https://t.me/tomakado)
+
+* Linkedin: [@tomakado](https://www.linkedin.com/in/tomakado/)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tomakado)
