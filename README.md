@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-More info about my experience 👉 https://tomakado.xyz
+📺 Past year I started to make videos about programming in Go: https://www.youtube.com/channel/UCKT1kXUTbb2FivzJ8bvQ2YA
+
+<!--More info about my experience 👉 https://tomakado.xyz-->
 
 📮 Feel free to get in touch with me via hi@ildarkarymov.ru
 
