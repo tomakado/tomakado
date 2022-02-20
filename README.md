@@ -2,7 +2,7 @@
 
 My name is Ildar Karymov (tomakado).
 
-I speak Russian, English, Python, Golang and JavaScript.
+I speak Russian, English, Python, Go and JavaScript. And Clojure a bit!
 
 <!--**tomakado/tomakado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
