@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Some projects I work or worked on
 
-📺 [defer panic](https://youtube.com/@deferpanic) — videos about programming (mostly in Go), in Russian
+📺 [defer panic](https://youtube.com/@deferpanic) — videos about programming (mostly Go), in Russian
 
 🔮 [markovscope](https://github.com/tomakado/markovscope-api) — simple horoscope generator, made as a joke
 
