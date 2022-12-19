@@ -39,5 +39,3 @@ Here are some ideas to get you started:
 ✉️ Telegram: [@tomakado](https://t.me/tomakado)
 
 📜 Linkedin: [@tomakado](https://www.linkedin.com/in/tomakado/)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tomakado)
