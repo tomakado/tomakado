@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 🐦 Twitter: [@tomakado](https://twitter.com/tomakado)
 
+🦣 Mastodon: [@tomakado@pub.deferpanic.dev](https://pub.deferpanic.dev/@tomakado)
+
 ✉️ Telegram: [@tomakado](https://t.me/tomakado)
 
 📜 Linkedin: [@tomakado](https://www.linkedin.com/in/tomakado/)
