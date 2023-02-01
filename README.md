@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 📺 [defer panic](https://youtube.com/@deferpanic) — videos about programming (mostly Go), in Russian
 
+📦 [containers](https://github.com/tomakado/containers) - collection of simple generic data structures currently missing in Go's standard library
+
 🔮 [markovscope](https://github.com/tomakado/markovscope-api) — simple horoscope generator, made as a joke
 
 🪵 [logo](https://github.com/tomakado/logo) — experimental and opinionated logger for Go
