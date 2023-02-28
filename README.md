@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+You can find my CV here 👉 https://cv.tomakado.com
+
 ### Some projects I work or worked on
 
 📺 [defer panic](https://youtube.com/@deferpanic) — videos about programming (mostly Go), in Russian
