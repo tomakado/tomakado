@@ -32,6 +32,8 @@ You can find my CV here 👉 https://cv.tomakado.com
 
 👾 [ИРТЫШ](https://github.com/irtysh) (eng. _Irtysh_, pronounced like _ear-tea-sh_) — fantasy game console, currently on early stage of development
 
+### Talks
+- [CLI-интерфейсы по-человечески (CLI for Humans)](https://youtu.be/kbciYciNO4Y) @ Podlodka Go Crew
 
 ### Links and contact info
 <!--More info about my experience 👉 https://tomakado.xyz-->
