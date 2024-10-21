@@ -50,4 +50,4 @@ You can find my CV here 👉 https://cv.tomakado.com
 
 ### What I'm listening now (or recently)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xfgq13bn48kukarwj34rbji0i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xfgq13bn48kukarwj34rbji0i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=xfgq13bn48kukarwj34rbji0i&redirect=true)
