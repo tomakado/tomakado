@@ -18,6 +18,8 @@ You can find my CV here 👉 https://cv.tomakado.com
 
 ### Some projects I work or worked on
 
+🪄 [TrafficWand](https://github.com/trafficwand/trafficwand) — a menu-bar app which routes links to the right browser
+
 📺 [defer panic](https://youtube.com/@deferpanic) — videos about programming (mostly Go), in Russian
 
 🔎 [dumbql](https://github.com/tomakado/dumbql) — query language, simple (dumb?) and data provider agnostic
