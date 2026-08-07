@@ -36,7 +36,7 @@ You can find my CV here 👉 https://cv.tomakado.com
 ### Links and contact info
 <!--More info about my experience 👉 https://tomakado.xyz-->
 
-📮 hi@ildarkarymov.ru
+📮 ildar@kary.mov
 
 ✉️ Telegram: [@tomakado](https://t.me/tomakado)
 
